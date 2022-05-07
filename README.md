@@ -16,14 +16,10 @@
 ####
 
 </br>
-</br>
-</br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentino14&show_icons=true&theme=codeSTACKr)
 
 </div>
-</br>
-</br>
 </br>
 
 # Most Used Technologies
