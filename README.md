@@ -9,18 +9,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-laurentino-437b65239/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/laurentinodev)
 
-<div style="display:flex; width:0 auto; flex-wrap:wrap; flex-direction:column; justify-content:start;align-items:center; ">
+<div style="display:flex; width:auto; background-color:rgb(9, 19, 27); padding:30px; border-radius:15px; flex-wrap:wrap; flex-direction:column; justify-content:start;align-items:center; ">
 
 ![alt text](https://lh3.googleusercontent.com/fife/AAWUweVH9CLNnV67SYbPTy69_tSY7dfmOh4IlSu6EKJ5WZCCKrK0cBB019cTP6gZZ0im6tp_hjnW2vR7Y3UT828Pr73DgJEwxvUXzxec6GmbcHlnk96ZiV0nvSmWfXf7MYhXBLK-U23l3JDKZlZuJcoJA8xejiHMACYlq-OWNt2yqhHjt8VRArL3hPQaBtGKptWlBqsUM1VftnDmOt2D9MqibSryMWbmY95I-PxdOHlQDtrJ7GxvmUKN7XF4UH1fQGx_0cDmk1jon_pW6i-mS31vnvhyUeWkBvbnI0MBtr-E8qEtS4zH183oG6meU5L0sStpeKpNxhTZvKAeYi7ETf00-bdcj3IB5P0c3XgiNi9BYE_IueQ0M8Tfcop8dGWFwPc9Yuv42_xrSD6NemppNvOaNpqkJysk1-6_sta88RNmU3t4Km_nHOMtfRFWuLfea_50aBt-P00m8WpFR8-moYN8ofrmd3YlDJ9m7w9y0Dv-O7-6YSH9CoEkBEJyAUOhmE9d0QuQ4vWA0H4znVMALDfwjTfQADs-rWhN_XjavJZkNmsSdByUMp5DmYCF2hjRAtQw3XMj_Q7bFfjhYMx-izi_1xl7G6HtKVYc_HzVJunM0q8tf96KnWM8mFbGKlPPXhdzPFKMGGNZOsa1lEfyBVAdVlmJPE3XWJ-_v6l27ZijEn6M6ykH1vUoH00-4mJy9vR14AIHUYTJZjzL6JCJRvm0-Cq73XgnLoKb2NADlnxVqA93NbQd_z2Hbw6tLN5GOcTiyq2dsBQ8UvheoG9ZpqCQ65fc-DJaGAzVX-tlM6QBQXw3VYAwudxdTduJlsmRBYnRzRKm16GQXizNgumeJyVsYSu9pwkwDt5TWDFtJi3RLfF6IseoFCXNYMwF8YciLwqqx23RXA9gpjEi5g1nzpPJpSurULXvaHJQUYyEVDGS2l0HONtMdGBwQ1Gdzmdf1D5WbEGP1Ba-vne66GeM-kHdgc7y563bOJGxrp3SOzO5hdxX0HDPtdunZjGaSKsG4JmDd-nKEoCg6cpjEx21Nljxu6SqD77xyjgryTb2W1HpZs7iMBn-GiFpd4r6mF7mlD6cv3VBIKA6dW0x6p6bQGJpsB3rj8eggAA-zEIRbBUXaIk5FQ-OP3xZzOPcsSBO1bU7nm3ksU97dMcSAwQ07_i9-SD8ByDLbzdkf8rhUdiOMli-GlchheXq5gaK6eC5noKUp2jodcsyc2jc7aR-UytKrc_hYpV4XDMgrY9Fy4_qzdnnGbdvPJ-vzc8c-Ir9jqASkU6M0nuVTX-4rXZOW4rbKvnpCU6PI0F_sQMskgcpA6o=w1920-h969 ":D")
+
+</div>
 
 ####
 
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laurentino14&show_icons=true&theme=codeSTACKr)
-
-</div>
-</br>
 
 # Most Used Technologies
 
