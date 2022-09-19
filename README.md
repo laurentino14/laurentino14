@@ -1,6 +1,6 @@
 ## LUCAS LAURENTINO CAZEMIRO ✌️
 
-#### FullCycle Developer available for new opportunities
+#### Full Stack Developer available for new opportunities
 
 www.laurentino.vercel.app
 
