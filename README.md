@@ -21,6 +21,6 @@ www.laurentino.vercel.app
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laurentino14&layout=compact&theme=vision-friendly-dark&count_private=true)](https://github.com/laurentino14/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laurentino14&repo=user&theme=vision-friendly-dark)](https://github.com/laurentino14/user)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laurentino14&repo=dr&theme=vision-friendly-dark)](https://github.com/laurentino14/user)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laurentino14&repo=dr&theme=vision-friendly-dark)](https://github.com/laurentino14/dr)
 
 
