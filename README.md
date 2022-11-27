@@ -10,10 +10,10 @@
 - 🔭 I’m currently working on<b> [Dev Running](https://github.com/Dev-Running)</b>, my personal project  
   
 
-- 😍 I’m currently learning <b>Kafka Connect </b>and  <b>Kafka Streams</b>  
+- 😍 I’m currently learning <b>Clean Architecture</b>
   
 
-- ❓ Ask me about anything related to <b>Clean Architecture</b>  
+- ❓ Ask me about anything related to <b>Apache Kafka</b>  
   
 
 <br/>  
