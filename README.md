@@ -13,7 +13,7 @@
 - 😍 I’m currently learning <b>Kafka Connect </b>and  <b>Kafka Streams</b>  
   
 
-- ❓ Ask me about anything related to <b>Clean Archtecture</b>  
+- ❓ Ask me about anything related to <b>Clean Architecture</b>  
   
 
 <br/>  
