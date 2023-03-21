@@ -10,7 +10,7 @@
 <!-- - 🔭 I’m currently working on<b> [Dev Running](https://github.com/Dev-Running)</b>, my personal project  
    -->
 
-- 😍 I’m currently learning <b>Serverless</b>
+- 😍 I’m currently working with <b>Serverless</b>
   
 
 - ❓ Ask me about anything related to <b>Apache Kafka</b>  
