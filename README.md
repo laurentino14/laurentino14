@@ -6,7 +6,7 @@
 #### Hi, there!
 CEO at LV Digital.
 
-Graduating in Systems Analysis and Development at the GRAN University ( [Link](https://faculdade.grancursosonline.com.br/) ), passionate about technology and currently in love with the C language.
+Graduating in Systems Analysis and Development at the GRAN University ( [Link](https://faculdade.grancursosonline.com.br/) ), passionate about technology and currently in love with the C language. Thank you, Ritchie!
 
 C, C++, GoLang and Javascript are currently my working languages!
 
