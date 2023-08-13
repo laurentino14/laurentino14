@@ -2,12 +2,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
 </div>  
   
+# Lucas Laurentino
+#### Hi, there!
+CEO at LV Digital.
 
-### <div align="center">Hi, there!</div>  
-</br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laurentino14&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+Graduating in Systems Analysis and Development at the GRAN University ( [![Link](Link)]([https://faculdade.grancursosonline.com.br/](https://faculdade.grancursosonline.com.br/)) ), passionate about technology and currently in love with the C language.
 
-  
+C, C++, GoLang and Javascript are currently my working languages!
 
 <br/>  
  
@@ -30,18 +31,4 @@
 </div>  
 
 <br/>  
-
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31tytjghboazrmwpjgluhzvj76vi&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
-<br/>  
-  
-
-<br/>  
-
-
-<br />
 
