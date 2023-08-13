@@ -3,23 +3,14 @@
 </div>  
   
 
-### <div align="center">I'm Lucas Laurentino !</div>  
- <div align="center">www.laurentino.vercel.app</div>  
-  
+### <div align="center">Hi, there!</div>  
+</br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laurentino14&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<!-- - 🔭 I’m currently working on<b> [Dev Running](https://github.com/Dev-Running)</b>, my personal project  
-   -->
-
-- 😍 I’m currently working with <b>Serverless</b>
-  
-
-- ❓ Ask me about anything related to <b>Apache Kafka</b>  
   
 
 <br/>  
-
-
-## Connect with me  
+ 
 <div align="center">
 <a href="https://github.com/laurentino14" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -37,13 +28,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=laurentino14&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
