@@ -34,4 +34,4 @@ Continuous learning is the essence of development, and each interaction is an op
 
 ## Contact
 
-If you have any feedback or job opportunities, feel free to reach out via email at **laurentino@elevatt.tech**.
+If you have any feedback or job opportunities, feel free to reach out via email at **lucas@elevatt.tech**.
