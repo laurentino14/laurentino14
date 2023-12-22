@@ -39,4 +39,4 @@ A aprendizagem contínua é a essência do desenvolvimento, e cada interação �
 
 ## Contato
 
-Se você tiver algum comentário ou vagas para trabalho, entre em contato pelo e-mail **laurentino@elevatt.tech**.
+Se você tiver algum comentário ou vagas para trabalho, entre em contato pelo e-mail **lucas@elevatt.tech**.
