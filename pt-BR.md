@@ -1,3 +1,4 @@
+[English](https://github.com/laurentino14/laurentino14/tree/main/README.md)
 
 ![Logo](https://i.imgur.com/kUkTVZG.png)
 
@@ -10,7 +11,7 @@ Transformo desafios em soluções eficientes, buscando sempre a excelência téc
 
 **Linguagens dominantes**: ``GoLang`` e ``Javascript/Typescript``.
 
-#### Tech Stack
+#### Tecnologias
 - Server-side:
     - Databases - [ver todos]()
     - HTTP - [ver todos]()
@@ -23,7 +24,7 @@ Transformo desafios em soluções eficientes, buscando sempre a excelência téc
 - Client-side:
     - Frameworks JS - [ver todos]()
     - Frameworks CSS - [ver todos]()
-    - Ferramentas - [ver todos]()
+- Ferramentas - [ver todos]()
     
 ## Open Source 
 ##### **```EM CONSTRUÇÃO!```**
