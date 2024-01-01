@@ -1,6 +1,6 @@
 [Português](https://github.com/laurentino14/laurentino14/tree/main/pt-BR.md)
 
-![Logo](https://i.imgur.com/kUkTVZG.png)
+![Logo](https://cdn.laudev.com.br/github-en.png)
 
 Passionate developer of the code art!
 
