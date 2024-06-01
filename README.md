@@ -2,7 +2,7 @@
 
 Passionate developer of the code art!
 
-Specialized in boosting application performance with mastery in **Golang**, my primary language.
+Specialized in boosting application performance.
 
 I turn challenges into efficient solutions, always striving for technical excellence since.
 
