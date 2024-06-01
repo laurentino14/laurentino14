@@ -2,7 +2,7 @@
 
 Desenvolvedor apaixonado pela arte do código!
 
-Especializado em impulsionar a performance de aplicações com maestria em **Golang**, minha linguagem principal.
+Especializado em impulsionar a performance de aplicações.
 
 Transformo desafios em soluções eficientes, buscando sempre a excelência técnica.
 
