@@ -1,7 +1,5 @@
 [Português](https://github.com/laurentino14/laurentino14/tree/main/pt-BR.md)
 
-![Logo](https://cdn.laudev.com.br/github-en.png)
-
 Passionate developer of the code art!
 
 Specialized in boosting application performance with mastery in **Golang**, my primary language.
@@ -12,18 +10,18 @@ I turn challenges into efficient solutions, always striving for technical excell
 
 #### Tech Stack
 - Server-side:
-    - Databases - [see all]()
-    - HTTP - [see all]()
-    - Asynchronous Communication - [see all]()
-    - Observability - [see all]()
+    - Databases 
+    - HTTP 
+    - Asynchronous Communication
+    - Observability
 - DevOps:
-    - CI/CD Pipelines - [see all]()
-    - Infrastructure - [see all]()
-    - Containers - [see all]()
+    - CI/CD Pipelines
+    - Infrastructure
+    - Containers
 - Client-side:
-    - JS Frameworks - [see all]()
-    - CSS Frameworks - [see all]()
-    - Tools - [see all]()
+    - JS Frameworks
+    - CSS Frameworks
+    - Tools
 
 ## Open Source
 ##### **```UNDER CONSTRUCTION!```**
