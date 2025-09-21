@@ -1,0 +1,147 @@
+{
+	"editor.rulers": [140, 170],
+	"workbench.startupEditor": "newUntitledFile",
+	"editor.renderLineHighlight": "gutter",
+	"editor.fontFamily": "'JetBrainsMono Nerd Font'",
+	"terminal.integrated.fontFamily": "'JetBrainsMono Nerd Font'",
+	"editor.fontLigatures": true,
+	"workbench.editor.labelFormat": "short",
+	"explorer.compactFolders": false,
+	"editor.semanticHighlighting.enabled": false,
+	"breadcrumbs.enabled": false,
+	"editor.minimap.enabled": false,
+	"editor.scrollbar.horizontal": "hidden",
+	"editor.scrollbar.vertical": "hidden",
+	"workbench.statusBar.visible": true,
+	"window.titleBarStyle": "custom",
+	"explorer.sortOrder": "foldersNestsFiles",
+
+	"explorer.fileNesting.patterns": {
+		"package.json": ".eslint*, prettier*, tsconfig*, vite*, pnpm-lock*, bun.lockb, yarn.lock, nest*,.prettier*,.gitignore,*-lock.json",
+		"tailwind.config.js": "tailwind.config*, postcss.config*",
+		"tailwind.config.ts": "tailwind.config*, postcss.config*",
+		".env.local": ".env*",
+		".env": ".env*",
+		"next.config.js": "next*"
+	},
+	"apc.electron": {
+		"titleBarStyle": "hiddenInset",
+		"menuBarVisibility": "hidden",
+		"frame": false
+	},
+	"apc.header": {
+		"height": 36
+	},
+	"tailwindCSS.experimental.classRegex": [
+		["cva\\(([^)]*)\\)", "[\"'`]([^\"'`]*).*?[\"'`]"],
+		["cx\\(([^)]*)\\)", "(?:'|\"|`)([^']*)(?:'|\"|`)"]
+	],
+	"apc.stylesheet": {
+		".title-label > h2": "display: none",
+		".editor-actions": "display: none",
+		".nosidebar .inline-tabs-placeholder": "width: 75px",
+		".pane-header": "padding: 0 8px",
+		".pane-body": "padding: 8px",
+		".split-view-view:first-child .pane-header": "display: none !important;",
+		".monaco-list-row": "border-radius: 4px;",
+		".monaco-workbench .monaco-list:not(.element-focused):focus:before": "display: none;"
+	},
+	"explorer.fileNesting.enabled": true,
+	"symbols.hidesExplorerArrows": false,
+	"workbench.iconTheme": "symbols",
+	"workbench.colorTheme": "Min Darkest",
+	"github.copilot.enable": {
+		"*": true,
+		"plaintext": true,
+		"markdown": true,
+		"scminput": false
+	},
+	"files.associations": {
+		"*plays.yml": "ansible",
+		"*init.yml": "yaml",
+		"*.css": "tailwindcss"
+	},
+	"codesnap.shutterAction": "copy",
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+	"editor.defaultFormatter": "biomejs.biome",
+	"editor.formatOnType": false,
+	"editor.formatOnSave": true,
+	"editor.formatOnSaveMode": "file",
+
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "always",
+		"source.fixAll": "always",
+		"source.organizeImports.biome": "always",
+		"quickfix.biome": "always"
+	},
+	"editor.fontSize": 14,
+	"editor.lineHeight": 1.8,
+	"advancedNewFile.exclude": {
+		"node_modules": true,
+		"node_modules_electron": true,
+		"dev": true,
+		"dist": true
+	},
+	"advancedNewFile.showInformationMessages": true,
+	"advancedNewFile.convenienceOptions": ["current", "root"],
+	"cSpell.language": "en,pt,pt-BR",
+	"ansible.validation.enabled": false,
+
+	"prettier.enable": true,
+	"python.diagnostics.sourceMapsEnabled": true,
+	"cSpell.userWords": [
+		"addpaymentinfo",
+		"addtocart",
+		"csrf",
+		"firstname",
+		"hookform",
+		"initiatecheckout",
+		"pageview",
+		"Parens",
+		"viewcontent"
+	],
+	"terminal.integrated.env.linux": {
+		"GTK_PATH": ""
+	},
+	"prisma.showPrismaDataPlatformNotification": false,
+	"[javascript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[javascriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+	"[typescriptreact]": {
+		"editor.defaultFormatter": "biomejs.biome"
+	},
+
+	"explorer.confirmDelete": false,
+	"extensions.ignoreRecommendations": true,
+	"gopls": {},
+	"go.languageServerFlags": [],
+	"files.watcherExclude": {
+		"**/.bloop": true,
+		"**/.metals": true,
+		"**/.ammonite": true
+	},
+	"terminal.integrated.defaultProfile.osx": "fish",
+	"liveServer.settings.donotShowInfoMsg": true,
+	"terminal.integrated.env.osx": {},
+	"go.toolsManagement.autoUpdate": true,
+	"biome_lsp.trace.server": "verbose",
+	"diffEditor.ignoreTrimWhitespace": false,
+	"[css]": {
+		"editor.suggest.insertMode": "replace",
+		"cSpell.fixSpellingWithRenameProvider": false
+	},
+	"makefile.configureOnOpen": true,
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"git.confirmSync": false,
+	"dart.flutterSdkPath": "/Users/laurentino/dev/flutter"
+}
